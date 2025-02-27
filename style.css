@@ -218,6 +218,10 @@ section {
   cursor: pointer;
   height: 2rem;
 }
+.phone-number {
+  color: #1e90ff; /* ฟ้าสดใส (สามารถเลือกโค้ดสีฟ้าที่คุณต้องการ) */
+}
+
 
 /* BUTTONS */
 
